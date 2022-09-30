@@ -1,5 +1,6 @@
-# WAD_Group_Project
-WADLab08GroupB Project Repository - Floppabunny
-Bader Alabdullah, Chloe Greenhill, Jacob Ferguson, Parsa Tavakoli and Florence Payne.
+# Simple Necklace Website in Django
+# Floppabunny
 
-Repository for Floppabunny Retail Site
+This is a Web App Development group project created by:
+
+Bader Alabdullah, Chloe Greenhill, Jacob Ferguson, Parsa Tavakoli and Florence Payne.
