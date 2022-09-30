@@ -1,5 +1,5 @@
 # Simple Necklace Website in Django
-# Floppabunny
+# Floppabunny (Name by Florence Payne)
 
 This is a Web App Development group project created by:
 
